@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://cpu-scheduling-simulator-green.vercel.app/
 
 Experience the CPU Scheduler AI Simulator live with real-time scheduling visualization, animated Gantt charts, and AI-powered analytics.
 
